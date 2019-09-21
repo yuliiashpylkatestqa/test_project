@@ -1,5 +1,5 @@
 
-hello world and test 
+hello world and test merge conflict
 
 some text
 
